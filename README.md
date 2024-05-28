@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MS SQL Server
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me  
-  monaelmancy1@gmail.com | mona-elmancy 
+  monaelmancy1@gmail.com |www.linkedin.com/in/mona-elmancy 
 
 
 <!---
